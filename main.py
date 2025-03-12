@@ -1,6 +1,6 @@
 import threading
 from app.app_test import app
-from bot.bot_test import run_bot
+from bot.market_maker import run_bot
 
 def start_bots():
 
