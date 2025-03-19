@@ -1,0 +1,124 @@
+2025-03-18 19:56:03,314 - INFO: Market Maker Bot Starting...
+2025-03-18 19:56:07,831 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:56:07,831 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:56:28,729 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:56:28,729 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:56:50,939 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:56:50,939 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:57:11,846 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:57:11,846 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:57:33,419 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:57:33,419 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:57:54,306 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:57:54,306 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:58:12,209 - INFO: Bot stopped by user.
+2025-03-18 19:58:33,778 - INFO: Market Maker Bot Starting...
+2025-03-18 19:58:37,539 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:58:37,539 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:58:59,078 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:58:59,078 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:59:20,284 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:59:20,284 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 19:59:41,476 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 19:59:41,476 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:00:02,704 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:00:02,705 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:00:23,930 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:00:23,930 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:00:45,487 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:00:45,487 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:01:06,727 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:01:06,727 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:01:28,265 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:01:28,265 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:01:49,145 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:01:49,145 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:02:11,412 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:02:11,412 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:02:32,299 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:02:32,299 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:02:54,199 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:02:54,199 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:03:15,107 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:03:15,107 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:03:36,755 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:03:36,755 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:03:57,635 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:03:57,635 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:04:18,519 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:04:18,519 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:04:39,726 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:04:39,726 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:05:00,933 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:05:00,933 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:05:21,815 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:05:21,815 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:05:43,038 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:05:43,038 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:06:04,583 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:06:04,583 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:06:25,468 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:06:25,468 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:06:47,329 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:06:47,329 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:07:08,250 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:07:08,250 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:07:29,822 - ERROR: Order size calculation error: binance {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+2025-03-18 20:07:29,822 - ERROR: Order management error: cannot unpack non-iterable NoneType object
+2025-03-18 20:07:36,994 - INFO: Bot stopped by user.
+2025-03-18 20:07:39,793 - INFO: Market Maker Bot Starting...
+2025-03-18 20:07:43,750 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:08:06,597 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:08:27,759 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:08:49,905 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:09:11,353 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:09:33,177 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:09:54,964 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:10:17,191 - ERROR: Order management error: 'MarketMaker' object has no attribute 'trading_pair'
+2025-03-18 20:10:26,884 - INFO: Bot stopped by user.
+2025-03-18 20:10:36,833 - INFO: Market Maker Bot Starting...
+2025-03-18 20:10:41,102 - ERROR: Order management error: 'MarketMaker' object has no attribute 'config'
+2025-03-18 20:11:03,152 - ERROR: Order management error: 'MarketMaker' object has no attribute 'config'
+2025-03-18 20:11:24,813 - ERROR: Order management error: 'MarketMaker' object has no attribute 'config'
+2025-03-18 20:11:46,112 - ERROR: Order management error: 'MarketMaker' object has no attribute 'config'
+2025-03-18 20:11:49,869 - INFO: Bot stopped by user.
+2025-03-18 20:11:53,060 - INFO: Market Maker Bot Starting...
+2025-03-18 20:11:58,539 - INFO: Orders placed: Buy at 82350.0343, Sell at 83177.7957, Size: 0.002417
+2025-03-18 20:12:20,701 - INFO: Orders placed: Buy at 82350.2920, Sell at 83178.0180, Size: 0.002369
+2025-03-18 20:12:43,189 - INFO: Orders placed: Buy at 82370.1210, Sell at 83197.9890, Size: 0.002321
+2025-03-18 20:14:12,349 - INFO: Bot stopped by user.
+2025-03-18 20:14:15,689 - INFO: Market Maker Bot Starting...
+2025-03-18 20:21:37,429 - INFO: Orders placed: Buy at 82427.2541, Sell at 83255.7259, Size: 0.002368
+2025-03-18 20:21:59,840 - INFO: Orders placed: Buy at 82426.7215, Sell at 83255.1685, Size: 0.002321
+2025-03-18 20:23:07,541 - INFO: Orders placed: Buy at 82268.8497, Sell at 83095.8803, Size: 0.002373
+2025-03-18 20:23:29,305 - INFO: Orders placed: Buy at 82270.3492, Sell at 83097.4608, Size: 0.002372
+2025-03-18 20:23:53,156 - INFO: Orders placed: Buy at 82270.5098, Sell at 83097.6202, Size: 0.002325
+2025-03-18 20:37:47,903 - INFO: Orders placed: Buy at 82353.8633, Sell at 83181.5867, Size: 0.002323
+2025-03-18 20:38:09,952 - INFO: Orders placed: Buy at 82356.7802, Sell at 83184.5198, Size: 0.002370
+2025-03-18 20:38:32,380 - INFO: Orders placed: Buy at 82385.1329, Sell at 83213.1771, Size: 0.002322
+2025-03-18 20:41:49,729 - INFO: Orders placed: Buy at 82443.4924, Sell at 83272.1476, Size: 0.002368
+2025-03-18 20:42:12,113 - INFO: Orders placed: Buy at 82425.0593, Sell at 83253.5007, Size: 0.002321
+2025-03-18 20:49:10,449 - INFO: Orders placed: Buy at 82341.8077, Sell at 83169.4823, Size: 0.002371
+2025-03-18 20:49:32,197 - INFO: Orders placed: Buy at 82363.2326, Sell at 83191.1174, Size: 0.002323
+2025-03-18 20:51:21,662 - INFO: Orders placed: Buy at 82443.7871, Sell at 83272.5129, Size: 0.002322
+2025-03-18 20:59:46,467 - INFO: Orders placed: Buy at 82463.0065, Sell at 83291.8435, Size: 0.002321
+2025-03-18 21:02:19,985 - INFO: Orders placed: Buy at 82493.5708, Sell at 83322.6992, Size: 0.002320
+2025-03-18 21:04:54,274 - INFO: Orders placed: Buy at 82524.5378, Sell at 83354.0122, Size: 0.002319
+2025-03-18 21:07:05,195 - INFO: Orders placed: Buy at 82556.5491, Sell at 83386.3109, Size: 0.002318
+2025-03-18 21:08:32,996 - INFO: Orders placed: Buy at 82567.0346, Sell at 83396.9454, Size: 0.002318
+2025-03-18 21:15:52,751 - INFO: Orders placed: Buy at 82512.1859, Sell at 83341.4841, Size: 0.002366
+2025-03-18 21:16:14,835 - INFO: Orders placed: Buy at 82514.7986, Sell at 83344.1314, Size: 0.002319
+2025-03-18 21:22:33,934 - INFO: Orders placed: Buy at 82421.5068, Sell at 83249.9332, Size: 0.002414
+2025-03-18 21:22:56,974 - INFO: Orders placed: Buy at 82424.6768, Sell at 83253.0832, Size: 0.002366
+2025-03-18 21:23:19,448 - INFO: Orders placed: Buy at 82430.1245, Sell at 83258.5755, Size: 0.002319
+2025-03-18 21:33:18,956 - INFO: Bot stopped by user.
+2025-03-18 21:33:22,273 - INFO: Market Maker Bot Starting...
+2025-03-18 21:35:20,360 - INFO: Orders placed: Buy at 82509.7681, Sell at 83339.1019, Size: 0.002366
+2025-03-18 21:35:44,167 - INFO: Orders placed: Buy at 82516.2874, Sell at 83345.6826, Size: 0.002319
+2025-03-18 21:36:07,713 - INFO: Orders placed: Buy at 82526.9262, Sell at 83356.4238, Size: 0.002318
+2025-03-18 21:57:16,732 - INFO: Orders placed: Buy at 82595.5386, Sell at 83425.6614, Size: 0.002317
+2025-03-18 21:58:02,938 - INFO: Orders placed: Buy at 82649.5067, Sell at 83480.2433, Size: 0.002362
+2025-03-18 21:58:24,867 - INFO: Orders placed: Buy at 82650.0251, Sell at 83480.8049, Size: 0.002315
+2025-03-18 22:03:35,102 - INFO: Orders placed: Buy at 82563.0114, Sell at 83392.8686, Size: 0.002364
+2025-03-18 22:03:57,297 - INFO: Orders placed: Buy at 82561.0030, Sell at 83390.7970, Size: 0.002317
+2025-03-18 22:05:51,204 - INFO: Bot stopped by user.
