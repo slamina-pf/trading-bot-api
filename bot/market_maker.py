@@ -6,6 +6,7 @@ import os
 import numpy as np
 from typing import Dict
 import time
+from collections import deque
 
 load_dotenv()
 API_KEY = os.getenv('API_KEY')
@@ -19,7 +20,7 @@ class MarketMaker:
             base_asset: str = 'BTC', # Base asset to trade with
             quote_asset: str = 'USDT', # Quote asset to trade with
             order_size_percentage: float = 0.02, # Increased from 0.01
-            spread_percentage: float = 0.5, # Slightly wider spread
+            spread_percentage: float = 0.1, # Slightly wider spread
             max_order_count: int = 5, # Limit number of concurred orders
             min_order_value: float = 10.00, # Minimum order value in quote currency
             risk_balance_limit: float = 0.07, # Slightly increased risk tolerance
@@ -49,6 +50,7 @@ class MarketMaker:
         self.order_refresh_interval = order_refresh_interval
         self.max_exposure_percentage = max_exposure_percentage
         self.trading_pair = f'{self.base_asset}/{self.quote_asset}'
+        self.order_history = deque()
 
         exchange_class = getattr(ccxt, exchange_id)
         
@@ -212,3 +214,16 @@ def main():
     
 if __name__ == "__main__":
     main()
+
+def track_profit(self):
+    try:
+        trades = self.exchange.fetch_my_trades(self.trading_pair)
+        for trade in trades:
+            if trade['id'] not in self.processed_trades:  # Need to track processed trades
+                cost = trade['amount'] * trade['price']
+                if trade['side'] == 'sell':
+                    profit = (trade['price'] - self.get_average_buy_price()) * trade['amount']
+                    self.logger.info(f"Trade Profit: {profit:.4f} {self.quote_asset}")
+                self.processed_trades.add(trade['id'])
+    except Exception as e:
+        self.logger.error(f"Profit tracking error: {e}")
