@@ -24,8 +24,30 @@ def compute_indicators(df):
     return df
 
 def create_labels(df):
-    df["label"] = (df["sma_50"] > df["sma_200"]) & (df["rsi"] > 50)
-    df["label"] = df["label"].astype(int)  # Convert boolean to integer
+    # Signal is '1' (buy) when:
+    # - SMA 50 > SMA 200 (trend up)
+    # - RSI > 55 (stronger momentum confirmation)
+    # - MACD > MACD Signal (bullish crossover)
+    buy_signal = (
+        (df["sma_50"] > df["sma_200"]) &
+        (df["rsi"] > 55) &
+        (df["macd"] > df["macd_signal"])
+    )
+
+    # Signal is '-1' (sell) when:
+    # - SMA 50 < SMA 200 (trend down)
+    # - RSI < 45 (bearish momentum)
+    # - MACD < MACD Signal (bearish crossover)
+    sell_signal = (
+        (df["sma_50"] < df["sma_200"]) &
+        (df["rsi"] < 45) &
+        (df["macd"] < df["macd_signal"])
+    )
+
+    df["label"] = 0  # Default: Hold / No action
+    df.loc[buy_signal, "label"] = 1
+    df.loc[sell_signal, "label"] = -1
+
     return df
 
 # Main function
@@ -34,5 +56,5 @@ def get_data():
     df = fetch_ohlcv()
     df = compute_indicators(df)
     df = create_labels(df)
-    df.to_csv("trend_following_data.csv", index=False)
+    #df.to_csv("trend_following_data.csv", index=False)
     return df
