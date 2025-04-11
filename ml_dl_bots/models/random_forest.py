@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from helpers.collect_data import get_data
-from feature_engineering.feature_engineering import clean_data
+from feature_engineering.clean_data import clean_data
 from helpers.models import load_model
 import pandas as pd
 from helpers.connections import EXCHANGE

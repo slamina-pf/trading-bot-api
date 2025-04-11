@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 from helpers.collect_data import get_data
-from feature_engineering.feature_engineering import clean_data
+from feature_engineering.clean_data import clean_data
 from helpers.models import save_model
 
 def random_forest_training():
